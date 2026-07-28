@@ -1,2 +1,3 @@
-hello i am shohag 
-
+<<<<<<< HEAD
+=======  
+>>>>>>> Ashiqur_Rahman
